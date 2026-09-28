@@ -11,7 +11,7 @@ What is here is the part I wished someone had written before I started: how to
 approach an agentic target, which instincts transfer from ordinary appsec, and the
 specific ways these systems waste your time.
 
-Longer write-up of the same material: [MEDIUM LINK]
+Longer write-up of the same material: https://medium.com/@sakshamjaiswal79/what-i-learned-breaking-ai-agents-for-a-few-weeks-b065ee21c13e
 
 ---
 
